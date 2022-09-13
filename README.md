@@ -18,7 +18,7 @@ TTEncrypt is used from /device_register on tiktok which returns this value:
 }
 ```
 
-/device_register post body:
+/device_register post body example:
 
 ```json
 {

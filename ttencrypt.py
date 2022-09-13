@@ -1,3 +1,7 @@
+"""
+price: 500€
+"""
+
 import binascii #line:1
 import gzip #line:2
 import random #line:3
